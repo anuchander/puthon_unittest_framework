@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dbab292-499c-463e-b628-4183826875ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P10_pronic_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P1_rotate_right_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P2_print_duplicates_in_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P3_reverse_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P4_sort_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P6_add_two_3x3_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P7_Add_ing_or_ly_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P8_print_index_of_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/P9_swap_cases_of_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_Session4_Assignments/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops_session4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets_functions_session5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelExample.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Try_Except_Excel_Files_Session7/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Try_Except_Excel_Files_Session7/lamba_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Try_Except_Excel_Files_Session7/read_write_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Try_Except_Excel_Files_Session7/try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +20,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="feature_branch" />
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="feature_branch" />
@@ -66,7 +63,12 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/anu/PycharmProjects/puthon_unittest_framework&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.P1_rotate_right_elements">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.read_write_excel">
     <configuration name="P1_rotate_right_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="puthon_unittest_framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,50 +83,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops_Session4_Assignments/P1_rotate_right_elements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="P2_print_duplicates_in_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="puthon_unittest_framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Loops_Session4_Assignments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops_Session4_Assignments/P2_print_duplicates_in_array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="P3_reverse_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="puthon_unittest_framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Loops_Session4_Assignments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops_Session4_Assignments/P3_reverse_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,6 +135,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lamba_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="puthon_unittest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Try_Except_Excel_Files_Session7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Try_Except_Excel_Files_Session7/lamba_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="puthon_unittest_framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,13 +179,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="read_write_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="puthon_unittest_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Try_Except_Excel_Files_Session7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Try_Except_Excel_Files_Session7/read_write_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.read_write_excel" />
+        <item itemvalue="Python.lamba_example" />
         <item itemvalue="Python.P1_rotate_right_elements" />
         <item itemvalue="Python.P8_print_index_of_char" />
         <item itemvalue="Python.P4_sort_array" />
-        <item itemvalue="Python.P3_reverse_array" />
-        <item itemvalue="Python.P2_print_duplicates_in_array" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +225,7 @@
       <workItem from="1652490255169" duration="6682000" />
       <workItem from="1652543157341" duration="84000" />
       <workItem from="1652543246537" duration="16149000" />
+      <workItem from="1652643119675" duration="4393000" />
     </task>
     <task id="LOCAL-00001" summary="unittest framework added">
       <created>1652466058083</created>
@@ -297,8 +300,10 @@
     <SUITE FILE_PATH="coverage/puthon_unittest_framework$loops_session4.coverage" NAME="loops_session4 Coverage Results" MODIFIED="1652544844094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/puthon_unittest_framework$stacks_and_queue.coverage" NAME="stacks_and_queue Coverage Results" MODIFIED="1652473858465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/puthon_unittest_framework$P9_swap_cases_of_string.coverage" NAME="P9_swap_cases_of_string Coverage Results" MODIFIED="1652547801516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops_Session4_Assignments" />
+    <SUITE FILE_PATH="coverage/puthon_unittest_framework$lamba_example.coverage" NAME="lamba_example Coverage Results" MODIFIED="1652644865626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Try_Except_Excel_Files_Session7" />
     <SUITE FILE_PATH="coverage/puthon_unittest_framework$P7_Add_ing_or_ly_string.coverage" NAME="P7_Add_ing_or_ly_string Coverage Results" MODIFIED="1652547378498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops_Session4_Assignments" />
     <SUITE FILE_PATH="coverage/puthon_unittest_framework$P2_print_duplicates_in_array.coverage" NAME="P2_print_duplicates_in_array Coverage Results" MODIFIED="1652581470091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops_Session4_Assignments" />
+    <SUITE FILE_PATH="coverage/puthon_unittest_framework$read_write_excel.coverage" NAME="read_write_excel Coverage Results" MODIFIED="1652651346365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Try_Except_Excel_Files_Session7" />
     <SUITE FILE_PATH="coverage/puthon_unittest_framework$sets_functions_session5.coverage" NAME="sets_functions_session5 Coverage Results" MODIFIED="1652567588163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
